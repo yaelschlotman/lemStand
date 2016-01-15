@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <title>"Max Sales Per Day"</title>
+    </head>
+    <body>
+        <script src = "dailySales.js"
+    </body>
